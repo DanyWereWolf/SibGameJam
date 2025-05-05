@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: a1c44566ad66be2499574a3552baea1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6841908438048975377
+    second: Narativ_0
+  - first:
+      213: -8303074063545176140
+    second: Narativ_1
+  - first:
+      213: -2957267717510068217
+    second: Narativ_2
+  - first:
+      213: -6551972533256958195
+    second: Narativ_3
+  - first:
+      213: -6065904783144955857
+    second: Narativ_4
+  - first:
+      213: 7080981956894674927
+    second: Narativ_5
+  - first:
+      213: 3092500405100382621
+    second: Narativ_6
+  - first:
+      213: 7304296581632517219
+    second: Narativ_7
+  - first:
+      213: -8851739057214762333
+    second: Narativ_8
+  - first:
+      213: 8638005439333661989
+    second: Narativ_9
+  - first:
+      213: 4480058674705773583
+    second: Narativ_10
+  - first:
+      213: 6063071456408263731
+    second: Narativ_11
+  - first:
+      213: 8405371926628125606
+    second: Narativ_12
+  - first:
+      213: -343971351882596035
+    second: Narativ_13
+  - first:
+      213: 3580911674789112571
+    second: Narativ_14
+  - first:
+      213: 7393136106882726131
+    second: Narativ_15
+  - first:
+      213: 680468292052971574
+    second: Narativ_16
+  - first:
+      213: 2552933359979886612
+    second: Narativ_17
+  - first:
+      213: 7025367952808413776
+    second: Narativ_18
+  - first:
+      213: -147743756025403365
+    second: Narativ_19
+  - first:
+      213: 3346022727156875504
+    second: Narativ_20
+  - first:
+      213: 5090413894034133502
+    second: Narativ_21
+  - first:
+      213: 3442492300808151670
+    second: Narativ_22
+  - first:
+      213: -7393103188579435000
+    second: Narativ_23
+  - first:
+      213: 3944679431323804248
+    second: Narativ_24
+  - first:
+      213: -1764613116748909422
+    second: Narativ_25
+  - first:
+      213: -1643446227717599851
+    second: Narativ_26
+  - first:
+      213: 5767548520816310392
+    second: Narativ_27
+  - first:
+      213: 7455993587390816704
+    second: Narativ_28
+  - first:
+      213: -3761974660470505894
+    second: Narativ_29
+  - first:
+      213: -5098780671831846587
+    second: Narativ_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Narativ_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a28a3797753fe50800000000000000
+      internalID: 6841908438048975377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf61aa712e85cc80800000000000000
+      internalID: -8303074063545176140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 170
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080510edaca5f6d0800000000000000
+      internalID: -2957267717510068217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 144
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f4a11e1b7b215a0800000000000000
+      internalID: -6551972533256958195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 170
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f205d4ffcb391dba0800000000000000
+      internalID: -6065904783144955857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef48a9b293b44260800000000000000
+      internalID: 7080981956894674927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 144
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9982c1dbb4caea20800000000000000
+      internalID: 3092500405100382621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 144
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646e4a8a031e5560800000000000000
+      internalID: 7304296581632517219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2534ad93e482580800000000000000
+      internalID: -8851739057214762333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 144
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dff535e2c50e770800000000000000
+      internalID: 8638005439333661989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04beb6d0ad5c2e30800000000000000
+      internalID: 4480058674705773583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c5607bd5b542450800000000000000
+      internalID: 6063071456408263731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 155
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc5b3db31e5a470800000000000000
+      internalID: 8405371926628125606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31802eb0e7f93bf0800000000000000
+      internalID: -343971351882596035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 143
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaaadb1234f1b130800000000000000
+      internalID: 3580911674789112571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 144
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8fbd26e12b99660800000000000000
+      internalID: 7393136106882726131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_16
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 135
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630fbbc6e42817900800000000000000
+      internalID: 680468292052971574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 144
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41878d86d57dd6320800000000000000
+      internalID: 2552933359979886612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a0f8b5eee1f7160800000000000000
+      internalID: 7025367952808413776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 144
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e25036db13fdf0800000000000000
+      internalID: -147743756025403365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 102
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0c19e31f57f6e20800000000000000
+      internalID: 3346022727156875504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 128
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11e996778c4a640800000000000000
+      internalID: 5090413894034133502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672efab228036cf20800000000000000
+      internalID: 3442492300808151670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e3ae002db666990800000000000000
+      internalID: -7393103188579435000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85268d00b015eb630800000000000000
+      internalID: 3944679431323804248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 102
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294bf2a38b5d287e0800000000000000
+      internalID: -1764613116748909422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dcf6dfc5e4139e0800000000000000
+      internalID: -1643446227717599851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 93
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f51862d27a0050800000000000000
+      internalID: 5767548520816310392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_28
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 101
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c125080aa2097760800000000000000
+      internalID: 7455993587390816704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 102
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e72a46af7cacbc0800000000000000
+      internalID: -3761974660470505894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Narativ_30
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541d5d35efd7d39b0800000000000000
+      internalID: -5098780671831846587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Narativ_0: 6841908438048975377
+      Narativ_1: -8303074063545176140
+      Narativ_10: 4480058674705773583
+      Narativ_11: 6063071456408263731
+      Narativ_12: 8405371926628125606
+      Narativ_13: -343971351882596035
+      Narativ_14: 3580911674789112571
+      Narativ_15: 7393136106882726131
+      Narativ_16: 680468292052971574
+      Narativ_17: 2552933359979886612
+      Narativ_18: 7025367952808413776
+      Narativ_19: -147743756025403365
+      Narativ_2: -2957267717510068217
+      Narativ_20: 3346022727156875504
+      Narativ_21: 5090413894034133502
+      Narativ_22: 3442492300808151670
+      Narativ_23: -7393103188579435000
+      Narativ_24: 3944679431323804248
+      Narativ_25: -1764613116748909422
+      Narativ_26: -1643446227717599851
+      Narativ_27: 5767548520816310392
+      Narativ_28: 7455993587390816704
+      Narativ_29: -3761974660470505894
+      Narativ_3: -6551972533256958195
+      Narativ_30: -5098780671831846587
+      Narativ_4: -6065904783144955857
+      Narativ_5: 7080981956894674927
+      Narativ_6: 3092500405100382621
+      Narativ_7: 7304296581632517219
+      Narativ_8: -8851739057214762333
+      Narativ_9: 8638005439333661989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

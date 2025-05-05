@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: b8a70c2e006c66a4588850b9c88404ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6694315359129124808
+    second: Game-Designer_0
+  - first:
+      213: -588205099343708964
+    second: Game-Designer_1
+  - first:
+      213: -5044747057912553646
+    second: Game-Designer_2
+  - first:
+      213: 8893666861077564420
+    second: Game-Designer_3
+  - first:
+      213: 7724702746804322040
+    second: Game-Designer_4
+  - first:
+      213: 2265087406431516059
+    second: Game-Designer_5
+  - first:
+      213: 154048737533947510
+    second: Game-Designer_6
+  - first:
+      213: 522200709456878038
+    second: Game-Designer_7
+  - first:
+      213: -1066309072953298346
+    second: Game-Designer_8
+  - first:
+      213: -2960926679507702538
+    second: Game-Designer_9
+  - first:
+      213: -1925181616787244602
+    second: Game-Designer_10
+  - first:
+      213: -4250484973981126420
+    second: Game-Designer_11
+  - first:
+      213: -2535871466001613738
+    second: Game-Designer_12
+  - first:
+      213: -4913747665877559335
+    second: Game-Designer_13
+  - first:
+      213: 5984840391026837788
+    second: Game-Designer_14
+  - first:
+      213: 4044968589800431367
+    second: Game-Designer_15
+  - first:
+      213: -1057429405020541106
+    second: Game-Designer_16
+  - first:
+      213: -1515815205197337322
+    second: Game-Designer_17
+  - first:
+      213: 8910069686537321249
+    second: Game-Designer_18
+  - first:
+      213: -3017427190728836586
+    second: Game-Designer_19
+  - first:
+      213: -172239129550954850
+    second: Game-Designer_20
+  - first:
+      213: 7888884437831619062
+    second: Game-Designer_21
+  - first:
+      213: 6662647994344088060
+    second: Game-Designer_22
+  - first:
+      213: 7761586037943647251
+    second: Game-Designer_23
+  - first:
+      213: 3832659788385641540
+    second: Game-Designer_24
+  - first:
+      213: -1590649312641768336
+    second: Game-Designer_25
+  - first:
+      213: -1675526210988718390
+    second: Game-Designer_26
+  - first:
+      213: -1368035519641886936
+    second: Game-Designer_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game-Designer_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf3553e95cf6ec50800000000000000
+      internalID: 6694315359129124808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 144
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc7b8e149646d7f0800000000000000
+      internalID: -588205099343708964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 170
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fdc6f67457df9b0800000000000000
+      internalID: -5044747057912553646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 143
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c0135b3e6ac6b70800000000000000
+      internalID: 8893666861077564420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 155
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe71c29838a33b60800000000000000
+      internalID: 7724702746804322040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95bf85cef43f6f10800000000000000
+      internalID: 2265087406431516059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 143
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eeec6b28a432200800000000000000
+      internalID: 154048737533947510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 144
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d952ac47ca3f3700800000000000000
+      internalID: 522200709456878038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 135
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652b7d53c85b331f0800000000000000
+      internalID: -1066309072953298346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 144
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc67f56fdca8e6d0800000000000000
+      internalID: -2960926679507702538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9b84305816845e0800000000000000
+      internalID: -1925181616787244602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 144
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce038baaf6e3305c0800000000000000
+      internalID: -4250484973981126420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cbce85656ceccd0800000000000000
+      internalID: -2535871466001613738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 102
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d79673388cdecbb0800000000000000
+      internalID: -4913747665877559335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19809860ac6e0350800000000000000
+      internalID: 5984840391026837788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 102
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fdaa2508d922830800000000000000
+      internalID: 4044968589800431367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fa2b20f814351f0800000000000000
+      internalID: -1057429405020541106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61da31d1a1eb6fae0800000000000000
+      internalID: -1515815205197337322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 101
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b780e1c2de6ab70800000000000000
+      internalID: 8910069686537321249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 102
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab00105f1ff16d0800000000000000
+      internalID: -3017427190728836586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 102
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e51ba9c651c9df0800000000000000
+      internalID: -172239129550954850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f19f0f5992fa7d60800000000000000
+      internalID: 7888884437831619062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 102
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12956fc0b767c50800000000000000
+      internalID: 6662647994344088060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 101
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c334df061b6bb60800000000000000
+      internalID: 7761586037943647251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 102
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44466af65c7503530800000000000000
+      internalID: 3832659788385641540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_25
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074a4c5b0e0ece9e0800000000000000
+      internalID: -1590649312641768336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64926d9c55fb8e0800000000000000
+      internalID: -1675526210988718390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Designer_27
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 102
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fd0ab61f2c30de0800000000000000
+      internalID: -1368035519641886936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game-Designer_0: 6694315359129124808
+      Game-Designer_1: -588205099343708964
+      Game-Designer_10: -1925181616787244602
+      Game-Designer_11: -4250484973981126420
+      Game-Designer_12: -2535871466001613738
+      Game-Designer_13: -4913747665877559335
+      Game-Designer_14: 5984840391026837788
+      Game-Designer_15: 4044968589800431367
+      Game-Designer_16: -1057429405020541106
+      Game-Designer_17: -1515815205197337322
+      Game-Designer_18: 8910069686537321249
+      Game-Designer_19: -3017427190728836586
+      Game-Designer_2: -5044747057912553646
+      Game-Designer_20: -172239129550954850
+      Game-Designer_21: 7888884437831619062
+      Game-Designer_22: 6662647994344088060
+      Game-Designer_23: 7761586037943647251
+      Game-Designer_24: 3832659788385641540
+      Game-Designer_25: -1590649312641768336
+      Game-Designer_26: -1675526210988718390
+      Game-Designer_27: -1368035519641886936
+      Game-Designer_3: 8893666861077564420
+      Game-Designer_4: 7724702746804322040
+      Game-Designer_5: 2265087406431516059
+      Game-Designer_6: 154048737533947510
+      Game-Designer_7: 522200709456878038
+      Game-Designer_8: -1066309072953298346
+      Game-Designer_9: -2960926679507702538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
